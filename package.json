@@ -1,0 +1,22 @@
+{
+  "name": "zec",
+  "version": "0.0.1",
+  "description": "Zcash RPC wallet wrapper.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/montyanderson/zec.git"
+  },
+  "author": "Monty Anderson <monty.linux@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/montyanderson/zec/issues"
+  },
+  "homepage": "https://github.com/montyanderson/zec#readme",
+  "devDependencies": {
+    "zcash": "^0.0.5"
+  }
+}
